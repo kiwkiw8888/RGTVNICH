@@ -115,18 +115,11 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/IDX/sa_dash_vmx/IDX.mpd
 #EXTINF:-1 tvg-logo="https://iili.io/JV3xUMX.png" group-title="NATIONAL",IDTV
 https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
  
-#EXTINF:-1 tvg-logo="https://iili.io/JmFZtFs.png" group-title="PARLIAMENTARY",TVR Parlemen
-http://103.18.181.69:1935/golive/livestream/chunklist_w1350607412.m3u8
- 
 #EXTINF:-1 tvg-logo="https://iili.io/dA8evOF.png" group-title="NATIONAL",Jawa Pos TV (Surabaya)
 https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://iili.io/dA8evOF.png" group-title="NATIONAL",Jawa Pos TV (Jakarta)
 http://63b2dc7196c38.streamlock.net:1935/ch6/myStream/chunklist.m3u8
- 
-#EXTINF:-1 tvg-id="SEA TODAY - [Channel 336].id" tvg-logo="https://iili.io/JV3xLAl.png" group-title="NATIONAL",SEA Today
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch106.m3u8
  
 #EXTINF:-1 tvg-logo="https://iili.io/JV3xmPe.png" group-title="NATIONAL",TVRI World
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
