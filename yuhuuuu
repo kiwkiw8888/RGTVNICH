@@ -6,7 +6,7 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://d1abp075u76pbq.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
  
 #EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" tvg-logo="https://iili.io/JMp3kla.png" group-title="NASIONAL",MNCTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
